@@ -19,5 +19,5 @@ def link
 end
 
 def any_phrase(argument)
-  puts "It's-a me, #{argument}!"
+  puts "#{argument}"
 end
