@@ -15,7 +15,7 @@ def toadstool
 end
 
 def link
-  puts "It's a Dangerous To Go Alone! Take This."
+  puts "It's a Dangerous To Go Alone! Take This.\n"
 end
 
 def any_phrase(argument)
